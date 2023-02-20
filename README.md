@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Successful</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🌱 I’m currently learning **C, C#, Python, JavaScript**
+- 🌱 I’m currently learning Python, JavaScript**
 
-- 💬 Ask me about **C, C#, Python, JavaScript**
+- 💬 Ask me about Python, JavaScript**
 
 - 📫 How to reach me **juliusdaniel554@gmail.com**
 
